@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Karthi13krishna/Moshify/issues"
   },
-  "homepage": "https://github.com/Karthi13krishna/Moshify#readme"
+  "homepage": "https://github.com/Karthi13krishna/Moshify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
